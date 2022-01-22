@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jan 2022 14:25:33 at https://thetav.online/html/mat/default/index.html?fbclid=IwAR2C-0_kY4-SMk00DMEiOqsHvq7rYuIMd8phykLhUhVpQsGfzwqxKw3OrhI +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thetav.online/html/mat/default/index.html?fbclid=IwAR2C-0_kY4-SMk00DMEiOqsHvq7rYuIMd8phykLhUhVpQsGfzwqxKw3OrhI -O1 "C:\My Web Sites\new2022onlineresume" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/fonts/glyphicons-halflings-regular.eot (from https://thetav.online/html/mat/default/css/bootstrap.css)
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/fonts/glyphicons-halflings-regular.eot? (from https://thetav.online/html/mat/default/css/bootstrap.css)
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/fonts/glyphicons-halflings-regular.woff2 (from https://thetav.online/html/mat/default/css/bootstrap.css)
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/fonts/glyphicons-halflings-regular.woff (from https://thetav.online/html/mat/default/css/bootstrap.css)
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/fonts/glyphicons-halflings-regular.ttf (from https://thetav.online/html/mat/default/css/bootstrap.css)
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/fonts/glyphicons-halflings-regular.svg (from https://thetav.online/html/mat/default/css/bootstrap.css)
+14:25:58	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/css/AjaxLoader.gif (from https://thetav.online/html/mat/default/css/owl.theme.css)
+14:25:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetav.online/html/mat/default/images/spinner.jpg (from https://thetav.online/html/mat/default/css/style.css)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/portfolio-detail/images/portfolio-content/image-1.jpg (from https://thetav.online/html/mat/default/portfolio-detail/work-01.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/portfolio-detail/images/portfolio-content/image-2.jpg (from https://thetav.online/html/mat/default/portfolio-detail/work-01.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/portfolio-detail/images/portfolio-content/image-3.jpg (from https://thetav.online/html/mat/default/portfolio-detail/work-02.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/portfolio-detail/images/portfolio-content/image-4.jpg (from https://thetav.online/html/mat/default/portfolio-detail/work-02.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/about.html (from https://thetav.online/html/mat/default/load-more/portfolio.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/images/works/work-07.jpg (from https://thetav.online/html/mat/default/load-more/portfolio.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/images/works/work-08.jpg (from https://thetav.online/html/mat/default/load-more/portfolio.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/images/works/work-09.jpg (from https://thetav.online/html/mat/default/load-more/portfolio.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/blog-posts/favicon.ico (from https://thetav.online/html/mat/default/blog-posts/blog-1.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/blog-posts/blog-1.html (from https://thetav.online/html/mat/default/load-more/blog-posts.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/images/blogs/blog-4.jpg (from https://thetav.online/html/mat/default/load-more/blog-posts.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/images/blogs/blog-5.jpg (from https://thetav.online/html/mat/default/load-more/blog-posts.html)
+14:25:59	Error: 	"Not Found" (404) at link https://thetav.online/html/mat/default/load-more/images/blogs/blog-6.jpg (from https://thetav.online/html/mat/default/load-more/blog-posts.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 93 links scanned, 71 files written (2604109 bytes overall) [2079226 bytes received at 79970 bytes/sec], 703900 bytes transferred using HTTP compression in 28 files, ratio 21%, 18.6 requests per connection
+(20 errors, 1 warnings, 0 messages)
