@@ -35,13 +35,32 @@
     width: 100%;
 }
 
-body{
-    font-family: 'Roboto', sans-serif;
+
+    /* font-family: 'Roboto', sans-serif;
     background:#fafafa;
     overflow-x: hidden;
     position: relative;
-    background: url(../images/blue-texture-background-hd-wallpaper.jpg) #fafafa;
-}
+    background: url(../images/blue-texture-background-hd-wallpaper.jpg) #fafafa; */
+
+
+body {
+    background: linear-gradient(-45deg, #030e4e, #9a07f0, #022ff7, #f305e7, #357ad4, #c061f7, #10b0e0);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    height: 100vh;
+  }
+  
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
 
 .geometric-shapes{
     position: absolute;
