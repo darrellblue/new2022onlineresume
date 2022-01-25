@@ -320,8 +320,8 @@ h6{
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 380px;
-    height: 380px;
+    width: 358px;
+    height: 358px;
     margin-top: -30px;
     margin-left: -30px;
     border-radius: 50%;
@@ -338,7 +338,7 @@ h6{
     height: 350px;
     margin-top: -25px;
     margin-left: -25px;
-    border-radius: 50px;
+    border-radius: 50%;
     background: url(../images/IMG_Small.jpg) center center;
 }
 
